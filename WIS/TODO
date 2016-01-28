@@ -1,0 +1,13 @@
+----------------------------------------------------------------------------------------------------------
+Exercise 
+----------------------------------------------------------------------------------------------------------
+1.  Explore all the HTML Tags. 
+2.  Create a styles.css under css folder.
+3.  Change the font size to 40px and font family to 'Courier New' only for the heading class.
+4.  Change the font size to 20px and font family to 'Times New Roman' for the main class.
+5.  Load the image under the main class as one of the elements. The image is present under the img folder. 
+6.  Set the width and height of the image to be 50%. Set the z-index of the image to -1. 
+7.  Set the position of the image to be absolute/relative/static/fixed and see the difference. 
+8.  Change the background color of the web page to #E0E0E0.
+9.  Explore for more HTML tags such as table, span, sub, sup, strike etc. 
+10. Change the page to be scrollable. 
